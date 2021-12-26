@@ -51,7 +51,7 @@ comments:
   excludes: ['**/test/**', '**/androidTest/**', '**/commonTest/**', '**/jvmTest/**', '**/jsTest/**', '**/iosTest/**']
   AbsentOrWrongFileLicense:
     active: false
-    licenseTemplateFile: 'license.template'
+    licenseTemplateFile: 'license.frozenpriest.msg'
     licenseTemplateIsRegex: false
   CommentOverPrivateFunction:
     active: false

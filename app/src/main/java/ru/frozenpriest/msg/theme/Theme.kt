@@ -1,4 +1,4 @@
-package com.template.theme
+package ru.frozenpriest.msg.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme
